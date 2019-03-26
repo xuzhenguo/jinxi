@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://ali-fir-pro-binary.fir.im/d95e07e05bbc71adc72162f461ab6b0f77052d8c?auth_key=1553580486-0-0-9f1b7f1cb4e278d9882ee442e2de0ae0</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://pro-icon-qn.fir.im/a906a8a448c58afe5292ee78f4c03cae2ec048ce?e=1553581841&amp;token=LOvmia8oXF4xnLh0IdH05XMYpH6ENHNpARlmPc-T:UM5xuKki5UaBYh9PfPToXa3IHYo=</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://pro-icon-qn.fir.im/a906a8a448c58afe5292ee78f4c03cae2ec048ce?e=1553581841&amp;token=LOvmia8oXF4xnLh0IdH05XMYpH6ENHNpARlmPc-T:UM5xuKki5UaBYh9PfPToXa3IHYo=</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.vi163.videochats</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>App</string>
+				<key>title</key>
+				<string>今夕</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
